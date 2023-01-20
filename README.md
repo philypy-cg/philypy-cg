@@ -2,7 +2,7 @@
 
 - 👨‍🏫 Análise e Desenvolvimento de Sistemas;
 - 🔭 Hoje realizo projetos e me dedico ao desenvolvimento Full-Stack;
-- 🕮 Estudando JavaScript, NodeJs e ReactJs;
+- 🕮 Estudando JavaScript, NodeJs e React;
 - 📚 Pretendo em breve me especializar em Java, Banco de dados e Python
 - 🏙  Atualmente resido no Estado de Santa Catarina;
 - 😄 Pronome: ele/dele;
