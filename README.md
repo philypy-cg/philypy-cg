@@ -5,7 +5,7 @@
 - 🕮 Estudando JavaScript, NodeJs e React;
 - 📚 Pretendo em breve me especializar em Java, Banco de dados e Python
 - 🏙  Atualmente resido no Estado de Santa Catarina;
-- 😄 Pronome: ele/dele;
+
 
 <div align="center">
   🍃 Dev Full-Stack
@@ -37,6 +37,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgresqul](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+ 
+## 🏆 Troféus do GitHub:
+![](https://github-profile-trophy.vercel.app/?username=philypy-cg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
   
   ##
 <h2> Entre em contato! </h2>
