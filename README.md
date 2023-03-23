@@ -42,7 +42,6 @@
 ## 🏆 Troféus do GitHub:
 ![](https://github-profile-trophy.vercel.app/?username=philypy-cg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  
   ##
 <h2> Entre em contato! </h2>
 <div> 
