@@ -1,5 +1,6 @@
 ## Olá, Eu sou o Philypy Gomes
 
+- 👨‍🏫 Cibersegurança;
 - 👨‍🏫 Análise e Desenvolvimento de Sistemas;
 - 👨‍🏫 Engenharia de Software;
 - 🔭 Hoje realizo projetos e me dedico ao desenvolvimento Full-Stack;
