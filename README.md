@@ -1,6 +1,7 @@
 ## Olá, Eu sou o Philypy Gomes
 
 - 👨‍🏫 Engenharia de Software;
+- 👨‍🏫 Engenharia de Dados;
 - 👨‍🏫 Análise e Desenvolvimento de Sistemas;
 - 🔭 Hoje realizo projetos e me dedico ao desenvolvimento Full-Stack;
 - 📚 Foco no desenvolvimento em Java e nos estudos em Banco de dados, Python, JavaScript, NodeJs e React tendo em vista meus objetivos profissionais futuros.
