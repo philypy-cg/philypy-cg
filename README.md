@@ -4,7 +4,7 @@
 - 👨‍🏫 Engenharia de Dados;
 - 👨‍🏫 Análise e Desenvolvimento de Sistemas;
 - 🔭 Hoje realizo projetos e me dedico ao desenvolvimento Full-Stack;
-- 📚 Foco no desenvolvimento em Java e nos estudos em Banco de dados, Python, JavaScript, NodeJs e React tendo em vista meus objetivos profissionais futuros.
+- 📚 Foco no desenvolvimento em Java, C#/.NET e nos estudos em Banco de dados, Python, JavaScript, NodeJs e React tendo em vista meus objetivos profissionais futuros.
 - 🏙  Atualmente resido no Estado de Santa Catarina;
 
 
